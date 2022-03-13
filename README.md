@@ -1,0 +1,2 @@
+# TRENDY-MORE
+Django ecommerce
